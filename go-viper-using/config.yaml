@@ -1,0 +1,8 @@
+host: 127.0.0.1
+version: "^1.0.0"
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  dbname: "go-mysql-demo"
+  user: root
+  password: "123456"

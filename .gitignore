@@ -2,4 +2,13 @@
 **/*.sum
 **/*.iml
 **/*.xml
+**/*.log
 **/.idea
+
+vendor/*
+!vendor/vendor.json
+coverage.out
+count.out
+test
+profile.out
+tmp.out
